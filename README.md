@@ -20,7 +20,7 @@ Follow these steps to install and run the chat application:
 
 2. **Add cd**
     ```bash
-    cd project-name
+    cd acertea
     npm install
 3. **Write the code (Create name file server.js)**
    
