@@ -113,7 +113,7 @@ If you have any questions or feedback, feel free to contact us at:
 
 Email: miftahurrizki174@gmail.com
 Twitter: @miftahur
-GitHub Issues: [Issues](https://github.com/miftah1231/acertea.git)
+GitHub Issues: [Issues](https://github.com/miftah1231/acertea)
 Thank you for using the Simple Chat Application! We hope this project is helpful to you.
 
 You can copy and paste this template into the `README.md` file in your GitHub repository. Be sure to customize the sections with the appropriate details for your project, such as the project name, installation instructions, and contact information. If you need any additional information or further customization, let me know!
